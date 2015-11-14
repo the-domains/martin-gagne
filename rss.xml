@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[martin gagne]]></title>
+        <description><![CDATA[martin gagne]]></description>
+        <link>https://thegrid.ai/martin-gagne/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 Nov 2015 20:20:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/martin-gagne/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aabe198-57b4-437d-872f-aa009878668b.jpg">]]></description>
+            <link>https://thegrid.ai/martin-gagne/8a3fb6e5-80d7-4dd5-999b-648cae927465/index.html</link>
+            <guid isPermaLink="false">8a3fb6e5-80d7-4dd5-999b-648cae927465</guid>
+            <pubDate>Sat, 07 Nov 2015 19:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46f67afe-6fab-4a95-a02b-a2cc3ab25402.jpg">]]></description>
+            <link>https://thegrid.ai/martin-gagne/3746d241-368b-4dbb-899a-e7c52d3e4971/index.html</link>
+            <guid isPermaLink="false">3746d241-368b-4dbb-899a-e7c52d3e4971</guid>
+            <pubDate>Sat, 07 Nov 2015 18:26:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
