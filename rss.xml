@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[martin gagne]]></title>
-        <description><![CDATA[martin gagne]]></description>
+        <title><![CDATA[Martin Gagne]]></title>
+        <description><![CDATA[Martin Gagne]]></description>
         <link>https://thegrid.ai/martin-gagne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 03:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 04:51:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/martin-gagne/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LUC]]></title>
+            <description><![CDATA[<article><h1>LUC</h1><p>Uploaded by Paul Menzies on 2016-04-04.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39e4c0233406dc0d5cdde37b256baf51e5887e2d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=shteMZJwHGA</link>
+            <guid isPermaLink="false">0baea901-7f69-4722-852b-6450366f0884</guid>
+            <pubDate>Fri, 08 Apr 2016 04:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c046c641-73a5-4046-8ef1-e50419eb0631.jpg">]]></description>
@@ -16,7 +23,7 @@
         <item>
             <title><![CDATA[Bonne Fête Papa]]></title>
             <description><![CDATA[<article><h1>Bonne Fête Papa</h1><p>Bon soixantième
-anniversaire papa! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd41a49-05be-4afc-88c4-79963b6c0de3.JPG"></article>]]></description>
+anniversaire papa! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cd2b69e1afb89d4dbab5a83f695b2eee031e05e.jpg"></article>]]></description>
             <link>https://thegrid.ai/martin-gagne/bonne-fete-papa/index.html</link>
             <guid isPermaLink="false">1afb27f1-28e7-409a-86e2-84224ada04ec</guid>
             <pubDate>Sun, 22 Nov 2015 20:44:45 GMT</pubDate>
