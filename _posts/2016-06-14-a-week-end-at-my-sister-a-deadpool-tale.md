@@ -1,23 +1,20 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-06-14T14:50:38.521Z'
+datePublished: '2016-06-14T14:50:52.134Z'
+description: ''
 hasPage: true
+inFeed: true
 inNav: false
-inLanguage: null
 keywords: []
-description: A week end at my sister; a Deadpool tale.
-datePublished: '2016-06-14T12:16:54.294Z'
-dateModified: '2016-06-14T01:28:32.355Z'
 title: ''
 author: []
-authors: []
-publisher: null
 starred: false
 sourcePath: _posts/2016-06-14-a-week-end-at-my-sister-a-deadpool-tale.md
 url: a-week-end-at-my-sister-a-deadpool-tale/index.html
 _type: Article
 
 ---
-A week end at my sister; a Deadpool tale.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/250af0ad-c72e-469e-aca9-4974a2ceac95.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8df24be-f88e-4693-983a-19724c5bb1c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2324ea27-74e3-48bd-a61b-a3067eff0cf6.jpg)
