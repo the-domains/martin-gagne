@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-14T14:50:38.521Z'
-datePublished: '2016-06-14T14:50:52.134Z'
+dateModified: '2016-06-15T02:21:09.442Z'
+datePublished: '2016-06-15T02:21:55.592Z'
 description: ''
 hasPage: true
 inFeed: true
@@ -23,3 +23,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3890b07-17b5-4e75-a97c-d6e073278814.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/185eede2-da51-49e7-94d1-3f71f91fa07c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8300ab61-d6e3-4d94-b8ca-d31637ad00f2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b17b6130-0f1f-4807-8fd3-878148a5377c.png)
